@@ -1,0 +1,18 @@
+{
+    "Validlogin" : {
+
+        "username":"standard_user",
+        "password":"secret_sauce",
+        "Result":"Success"
+
+    },
+    "InValidlogin" : {
+
+        "username":"standard_Tests",
+        "password":"secret_sauce",
+        "Result":"Failed"
+
+    }
+
+}
+
